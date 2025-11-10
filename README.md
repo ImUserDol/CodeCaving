@@ -1,3 +1,6 @@
+The code changes on the fly, outputting to the error stream (highlighted in red) instead of the standard stream as in the code.
+Код изменяется на лету, выводя результаты в поток ошибок (выделено красным цветом) вместо стандартного потока, как в коде.
+
 # Для компиляции:
 # For compile:
 ```
